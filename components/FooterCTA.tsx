@@ -24,7 +24,7 @@ export default function FooterCTA() {
             Ready to Transform Your Learning Experience?
           </h2>
           <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">
-            Book a discovery call today and let's discuss how we can help you achieve your learning objectives.
+            {"Book a discovery call today and let's discuss how we can help you achieve your learning objectives."}
           </p>
           
           <motion.div
@@ -38,7 +38,7 @@ export default function FooterCTA() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               href="/contact"
-              className="rounded-full bg-blue-600 px-8 py-3.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+              className="rounded-full bg-blue-600 px-8 py-3.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-offset-2 focus-visible:outline-blue-600"
             >
               Schedule Discovery Call
             </motion.a>

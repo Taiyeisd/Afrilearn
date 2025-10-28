@@ -22,7 +22,7 @@ export default function FeaturedCaseStudy() {
             
             <blockquote className="mt-6">
               <p className="text-xl font-medium italic text-gray-900">
-                "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis at amet ab accusamus odio molestiae quidem. Doloremque iusto velit veniam!"
+                &quot;Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis at amet ab accusamus odio molestiae quidem. Doloremque iusto velit veniam.&quot;
               </p>
               <footer className="mt-4">
                 <p className="text-base font-semibold text-gray-900">Taiye Aransiola</p>
